@@ -1,16 +1,18 @@
-### 我只是來運動的 寫程式才是順便的 👋
-![](https://komarev.com/ghpvc/?username=darkbuq)
+![](https://komarev.com/ghpvc/?username=darkbuq)  
+---  
 
----
-目前每天游泳1K  搞得很累  
+### 我只是來運動的 寫程式才是順便的
 
-## 2023/06  我有個大膽的想法  
+---  
+
+#### 2023/06  我有個大膽的想法  
 每天騎U-bike上班
 機車丟一台在公司停車位  
 中午騎機車去  游泳1K
-晚上跟老婆復健+吃飯  然後丟我在路邊  跑步回家
+晚上跟老婆復健+吃飯  
+然後丟我在路邊  跑步回家
 
-三鐵都練到了
+`三鐵都練到了`
 <!--
 **darkbuq/darkbuq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
